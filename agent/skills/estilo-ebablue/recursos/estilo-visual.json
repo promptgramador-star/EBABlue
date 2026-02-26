@@ -1,0 +1,48 @@
+{
+  "marca": "EBABlue Handmade",
+  "objetivo": "Mantener coherencia visual femenina, delicada y artesanal.",
+
+  "paleta": {
+    "principal": "#2AA7B8",
+    "secundario": "#2F7DBA",
+    "acento": "#7B4A97",
+    "fondo": "#FFFFFF",
+    "superficie": "#F7F7F7",
+    "texto": {
+      "principal": "#333333",
+      "secundario": "#666666"
+    },
+    "bordes": "#E5E5E5"
+  },
+
+  "tipografia": {
+    "titulares": "Playfair Display",
+    "cuerpo": "Poppins",
+    "pesos": {
+      "normal": 400,
+      "medio": 500,
+      "negrita": 700
+    }
+  },
+
+  "formas": {
+    "radio_tarjeta": "20px",
+    "radio_boton": "14px",
+    "radio_input": "12px"
+  },
+
+  "espaciado": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "12px",
+    "lg": "20px",
+    "xl": "32px",
+    "xxl": "48px"
+  },
+
+  "componentes": {
+    "boton_principal": "fondo turquesa, texto blanco, elegante y minimal",
+    "tarjetas": "bordes redondeados suaves, sombra ligera, mucho aire",
+    "layout": "centrado, femenino, no saturado"
+  }
+}
